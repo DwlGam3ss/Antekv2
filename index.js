@@ -101,3 +101,22 @@ client.on("message", async (message) => {
     message.reply("Wystąpił błąd podczas wykonywania tego polecenia.").catch(console.error);
   }
 });
+
+client.on('guildMemberAdd' , (member) => {
+
+  const channel = member.guild.channels.cache.find(channel => channel.name === "🤗╎powitania")
+  if(!channel) return
+  
+
+  channel.send(`**🥳Cieszymy się, że do nas dołaczyłeś ${member}🥳** `)
+})
+
+client.on('guildMemberRemove' , (member) => {
+
+  const channel = member.guild.channels.cache.find(channel => channel.name === "🤗╎powitania")
+  if(!channel) return
+  
+
+  channel.send(`**😪Nie cieszymy się, że nas opuściłeś ${member.user.username}**😪`)
+})
+
