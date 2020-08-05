@@ -15,7 +15,6 @@
     "@discordjs/opus": "^0.3.2",
     "axios": "^0.19.2",
     "discord.js": "^12.0.1",
-    "discord.js-commando": "^0.10.0",
     "ffmpeg-static": "^4.2.3",
     "js-helpers": "github:m7rlin/js-helpers",
     "lyrics-finder": "^21.0.5",
