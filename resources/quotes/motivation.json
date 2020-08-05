@@ -1,0 +1,397 @@
+{
+"quotes": [
+    {
+        "text": "Geniusz to jeden procent inspiracji i dziewięćdziesiąt dziewięć procent potu.",
+        "author": "Thomas Edison"
+      },
+      {
+        "text": "Możesz wiele zaobserwować po prostu oglądając.",
+        "author": "Yogi Berra"
+      },
+      {
+        "text": "Dom podzielony przeciwko sobie nie może ostać się.",
+        "author": "Abraham Lincoln"
+      },
+      {
+        "text": "Trudności rosną w miarę zbliżania się do celu.",
+        "author": "Johann Wolfgang von Goethe"
+      },
+      {
+        "text": "Los jest w twoich rękach i nikogo innego",
+        "author": "Byron Pulsifer"
+      },
+      {
+        "text": "Bądź wodzem, ale nigdy panem.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "Nic się nie dzieje, jeśli najpierw nie śnimy.",
+        "author": "Carl Sandburg"
+      },
+      {
+        "text": "Dobry początek to połowa sukcesu.",
+        "author": "Arystoteles"
+      },
+      {
+        "text": "Życie to nauka, tylko jeśli się uczysz.",
+        "author": "Yogi Berra"
+      },
+      {
+        "text": "Samozadowolenie jest śmiertelne dla postępu.",
+        "author": "Margaret Sangster"
+      },
+      {
+        "tekst": "Pokój pochodzi z wnętrza. Nie szukaj go na zewnątrz.",
+        "author": "Budda"
+      },
+      {
+        "text": "Otrzymujesz to, co dajesz.",
+        "author": "Byron Pulsifer"
+      },
+      {
+        "text": "Kochać możemy tylko nauczyć się kochać.",
+        "author": "Iris Murdoch"
+      },
+      {
+        "text": "Życie to zmiana. Rozwój jest opcjonalny. Wybierz mądrze.",
+        "author": "Karen Clark"
+      },
+      {
+        "text": "Zobaczysz to, kiedy w to uwierzysz.",
+        "author": "Wayne Dyer"
+      },
+      {
+        "text": "Dzisiaj jest jutro, o które martwiliśmy się wczoraj.",
+        "author": ""
+      },
+      {
+        "text": "Łatwiej jest zobaczyć błędy na czyimś papierze.",
+        "author": ""
+      },
+      {
+        "text": "Każdy człowiek umiera. Nie każdy żyje naprawdę.",
+        "author": ""
+      },
+      {
+        "text": "Aby poprowadzić ludzi za nimi.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "Nie mając nic, nic nie może stracić.",
+        "author": "William Shakespeare"
+      },
+      {
+        "text": "Kłopot to tylko okazja w odzieży roboczej.",
+        "author": "Henry J. Kaiser"
+      },
+      {
+        "text": "Toczący się kamień nie zbiera mchu.",
+        "author": "Publilius Syrus"
+      },
+      {
+        "text": "Pomysły są początkiem wszystkich fortun.",
+        "author": "Napoleon Hill"
+      },
+      {
+        "text": "Wszystko w życiu to szczęście.",
+        "author": "Donald Trump"
+      },
+      {
+        "text": "Nic nie robienie jest lepsze niż bycie zajętym nie robieniem niczego.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "Ufaj sobie. Wiesz więcej niż myślisz.",
+        "author": "Benjamin Spock"
+      },
+      {
+        "text": "Studiuj przeszłość, jeśli chcesz odgadnąć przyszłość.",
+        "author": "Konfucjusz"
+      },
+      {
+        "text": "Dzień już jest błogosławiony, znajdź w nim pokój.",
+        "author": ""
+      },
+      {
+        "tekst": "Od błędu do błędu odkrywa się całą prawdę.",
+        "author": "Sigmund Freud"
+      },
+      {
+        "text": "Dobrze zrobione jest lepsze niż dobrze powiedziane.",
+        "author": "Benjamin Franklin"
+      },
+      {
+        "text": "Ugryź więcej, niż możesz przeżuć, a potem to przeżuwaj.",
+        "author": "Ella Williams"
+      },
+      {
+        "text": "Pracuj na własne zbawienie. Nie polegaj na innych.",
+        "author": "Budda"
+      },
+      {
+        "text": "Jeden dzisiaj jest wart dwa jutro.",
+        "author": "Benjamin Franklin"
+      },
+      {
+        "text": "Kiedy już wybierzesz nadzieję, wszystko będzie możliwe.",
+        "author": "Christopher Reeve"
+      },
+      {
+        "text": "Bóg zawsze wybiera najprostszą drogę.",
+        "author": "Albert Einstein"
+      },
+      {
+        "text": "Nie da się osiągnąć sukcesu.",
+        "author": "Charles Kettering"
+      },
+      {
+        "text": "Od małych początków są wielkie rzeczy.",
+        "author": ""
+      },
+      {
+        "text": "Nauka to skarb, który wszędzie będzie towarzyszył właścicielowi",
+        "author": "chińskie przysłowie"
+      },
+      {
+        "text": "Bądź taki, jakim chcesz się wydawać.",
+        "author": "Sokrates"
+      },
+      {
+        "text": "Świat jest zawsze w ruchu.",
+        "author": "V. Naipaul"
+      },
+      {
+        "text": "Nigdy nie myl aktywności z osiągnięciem.",
+        "author": "John Wooden"
+      },
+      {
+        "text": "Co cię martwi, panuje nad tobą.",
+        "author": "Haddon Robinson"
+      },
+      {
+        "text": "Spogląda się w przyszłość z przeszłością.",
+        "author": "Pearl Buck"
+      },
+      {
+        "text": "Cele są paliwem w piecu osiągnięć.",
+        "author": "Brian Tracy"
+      },
+      {
+        "text": "Kto sieje cnotę, zbiera honor.",
+        "author": "Leonardo da Vinci"
+      },
+      {
+        "text": "Bądź miły, kiedy tylko to możliwe. Zawsze jest to możliwe.",
+        "author": "Dalajlama"
+      },
+      {
+        "text": "Talk nie gotuje ryżu.",
+        "author": "chińskie przysłowie"
+      },
+      {
+        "tekst": "Ten, kto myśli, że jest w stanie.",
+        "author": "Budda"
+      },
+      {
+        "text": "Cel bez planu to tylko życzenie.",
+        "author": "Larry Elder"
+      },
+      {
+        "text": "Aby odnieść sukces, musimy najpierw uwierzyć, że możemy.",
+        "author": "Michael Korda"
+      },
+      {
+        "text": "Ucz się od wczoraj, żyj dziś, miej nadzieję na jutro.",
+        "author": "Albert Einstein"
+      },
+      {
+        "text": "Zioło to nic innego jak kwiat w przebraniu.",
+        "author": "James Lowell"
+      },
+      {
+        "text": "Zrób lub nie. Nie ma co próbować.",
+        "author": "Yoda"
+      },
+      {
+        "text": "Każda poważna śmiałość zaczyna się od wewnątrz.",
+        "author": "Harriet Beecher Stowe"
+      },
+      {
+        "text": "Najlepszym nauczycielem jest doświadczenie wyniesione z porażek.",
+        "author": "Byron Pulsifer"
+      },
+      {
+        "text": "Pomyśl, jak ciężka byłaby fizyka, gdyby cząstki mogły myśleć.",
+        "author": "Murray Gell-Mann"
+      },
+      {
+        "text": "Miłość to kwiat, któremu musisz pozwolić rosnąć.",
+        "author": "John Lennon"
+      },
+      {
+        "text": "Nie czekaj. Czas nigdy nie będzie odpowiedni.",
+        "author": "Napoleon Hill"
+      },
+      {
+        "text": "Czas jest najmądrzejszym doradcą ze wszystkich.",
+        "author": "Perykles"
+      },
+      {
+        "text": "Dajesz, zanim dostaniesz.",
+        "author": "Napoleon Hill"
+      },
+      {
+        "text": "Mądrość zaczyna się w zdumieniu.",
+        "author": "Sokrates"
+      },
+      {
+        "tekst": "Bez odwagi mądrość nie wydaje owocu.",
+        "author": "Baltasar Gracian"
+      },
+      {
+        "text": "Zmiana we wszystkim jest słodka.",
+        "author": "Arystoteles"
+      },
+      {
+        "text": "To, czego się boisz, to to, co wymaga działania, aby przezwyciężyć.",
+        "author": "Byron Pulsifer"
+      },
+      {
+        "text": "Kiedy wydajność przekracza ambicje, nakładanie się nazywa się sukcesem.",
+        "author": "Cullen Hightower"
+      },
+      {
+        "text": "Kiedy czyny mówią, słowa są niczym.",
+        "author": "przysłowie afrykańskie"
+      },
+      {
+        "text": "Prawdziwa magia w związkach oznacza brak osądzania innych.",
+        "author": "Wayne Dyer"
+      },
+      {
+        "text": "Nigdy nie myślę o przyszłości. Nadejdzie wystarczająco szybko.",
+        "author": "Albert Einstein"
+      },
+      {
+        "text": "Umiejętność do zrobienia przychodzi z robienia.",
+        "author": "Ralph Emerson"
+      },
+      {
+        "text": "Mądrość jest najwyższą częścią szczęścia.",
+        "author": "Sofokles"
+      },
+      {
+        "text": "Wierzę, że każdy człowiek rodzi się z talentem.",
+        "author": "Maya Angelou"
+      },
+      {
+        "text": "Ważne zasady mogą i muszą być nieelastyczne.",
+        "author": "Abraham Lincoln"
+      },
+      {
+        "text": "Podjęcie nowego działania daje nową siłę.",
+        "author": "Richard Evans"
+      },
+      {
+        "text": "Lata uczą wiele, o czym dni nigdy nie wiedzą.",
+        "author": "Ralph Emerson"
+      },
+      {
+        "text": "Nasza nieufność jest bardzo kosztowna.",
+        "author": "Ralph Emerson"
+      },
+      {
+        "text": "Wszyscy znają drogę; niewielu faktycznie nią chodzi.",
+        "author": "Bodhidharma"
+      },
+      {
+        "text": "Wielki talent znajduje szczęście w wykonaniu.",
+        "author": "Johann Wolfgang von Goethe"
+      },
+      {
+        "text": "Wiara w siebie jest najlepszą i najbezpieczniejszą drogą.",
+        "author": "Michelangelo"
+      },
+      {
+        "text": "Odwaga przechodzi od porażki do porażki bez utraty entuzjazmu.",
+        "author": "Winston Churchill"
+      },
+      {
+        "text": "Dwóch najpotężniejszych wojowników to cierpliwość i czas.",
+        "author": "Lew Tołstoj"
+      },
+      {
+        "text": "Przewiduj trudne, zarządzając łatwym.",
+        "author": "Lao Tzu"
+      },
+      {
+        "text": "Ci, którzy są wolni od urażonych myśli, z pewnością znajdą spokój.",
+        "author": "Budda"
+      },
+      {
+        "text": "Krótkie powiedzenie często zawiera dużo mądrości.",
+        "author": "Sofokles"
+      },
+      {
+        "text": "Aby tęczę tworzyło zarówno słońce, jak i deszcz.",
+        "author": ""
+      },
+      {
+        "text": "Piękna rzecz nigdy nie jest idealna.",
+        "author": ""
+      },
+      {
+        "text": "Rób tylko to, co podpowiada ci serce.",
+        "author": "Księżna Diana"
+      },
+      {
+        "text": "Życie to ruch - oddychamy, jemy, chodzimy, ruszamy się!",
+        "author": "John Pierrakos"
+      },
+      {
+        "text": "Nikt nie może sprawić, że poczujesz się gorszy bez twojej zgody.",
+        "author": "Eleanor Roosevelt"
+      },
+      {
+        "text": "Argumentuj za swoimi ograniczeniami i na pewno są twoje.",
+        "author": "Richard Bach"
+      },
+      {
+        "text": "Szczęście jest tym, co się dzieje, gdy przygotowanie napotyka okazję.",
+        "author": "Seneca"
+      },
+      {
+        "tekst": "Zwycięstwo należy do najbardziej wytrwałych.",
+        "author": "Napoleon Bonaparte"
+      },
+      {
+        "text": "Kochaj wszystkich, nie ufaj kilku, nikomu nie czyń krzywdy.",
+        "author": "William Shakespeare"
+      },
+      {
+        "text": "Aby wygrać, musisz spodziewać się wygranej.",
+        "author": "Richard Bach"
+      },
+      {
+        "text": "Cel to marzenie z terminem.",
+        "author": "Napoleon Hill"
+      },
+      {
+        "text": "Możesz to zrobić, jeśli uważasz, że możesz!",
+        "author": "Napoleon Hill"
+      },
+      {
+        "text": "Ustaw swoje cele wysoko i nie przestawaj, dopóki ich nie osiągniesz",
+        "author": ""
+      }
+]
+}
+
+
+
+
+
+        
+        
+        
+

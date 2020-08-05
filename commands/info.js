@@ -8,9 +8,10 @@ module.exports = {
  
 
             const botAuthor = "DwlGam3ss"
-            const botVersion = "v1.0"
+            const botVersion = "v1.1"
             const botName = "Antek"
-            const botDescription = "Narazie dużo nie potrafi, ale ciągle sie rozwija."
+            const botDescription = "Utalentowany muzyk i zarządca serwera."
+
         
             const embed = new MessageEmbed()
             .setTitle(botName)
@@ -19,6 +20,7 @@ module.exports = {
             .addField("Autor", botAuthor)
             .addField("Wersja", botVersion)
             .setTimestamp()
+
            
         message.channel.send(embed)
     },
