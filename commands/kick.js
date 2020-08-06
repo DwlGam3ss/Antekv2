@@ -15,6 +15,11 @@ module.exports = {
         const reasonArg = [...args].slice(1).join(" ")
         const userToKick = mentions.users.first()
 
+        if (!args.length)
+        return msg
+          .reply(`Użycie: ${msg.client.prefix}kick <użytkownik> [powód]`)
+          .catch(console.error);
+
         if (!userToKick) {
             return msg.reply("musisz podać poprawną nazwe użytkownika do wyrzucenia.")  
         }

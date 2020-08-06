@@ -4,7 +4,6 @@ module.exports = {
     name: "ban",
     description: "Banowanie użytkowników",
     args: true,
-    usage: "<użytkownik> [dni(0-7)] [powód]",
     botPermissions: [FLAGS.BAN_MEMBERS],
     userPermissions: [FLAGS.BAN_MEMBERS],
 
@@ -21,6 +20,12 @@ module.exports = {
         
         const reasonArg = [...args].slice(isNaN(daysArg) ? 1 : 2).join(" ")
         const userToBan = mentions.users.first()
+
+        if (!args.length)
+        return msg
+          .reply(`Użycie: ${msg.client.prefix}ban <użytkownik> [usunięcie wiadomości z (0-7 dni)] [powód]`)
+          .catch(console.error);
+
 
         if (!userToBan) {
             return msg.reply("musisz podać poprawną nazwe użytkownika do zbanowania.")  

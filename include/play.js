@@ -8,10 +8,26 @@ module.exports = {
     const { PRUNING, SOUNDCLOUD_CLIENT_ID } = require("../config.json");
     const queue = message.client.queue.get(message.guild.id);
 
+
     if (!song) {
-      queue.channel.leave();
-      message.client.queue.delete(message.guild.id);
-      return queue.textChannel.send("").catch(console.error);
+      setTimeout(() => {
+
+        const brak = new MessageEmbed()
+        .setTitle(`🟥 Wykryto brak aktywności.`)
+        .setColor("0xfcba03")
+    
+        queue.channel.leave();
+        message.channel.send(brak)
+        setTimeout(() => {
+          message.channel.bulkDelete(1)
+      }, 20000);
+    
+        
+      }, 60 * 5000);
+      
+        message.client.queue.delete(message.guild.id);
+        return //queue.textChannel.send("koniec").catch(console.error);
+
     }
 
     let stream = null;
@@ -62,7 +78,7 @@ module.exports = {
         queue.songs.shift();
         module.exports.play(queue.songs[0], message);
       });
-    dispatcher.setVolumeLogarithmic(queue.volume / 200);
+    dispatcher.setVolumeLogarithmic(queue.volume / 250);
 
     try {
       const song = queue.songs[0];
@@ -135,12 +151,13 @@ module.exports = {
           reaction.users.remove(user).catch(console.error);
           if (!canModifyQueue(member)) return;
           queue.songs = [];
-          queue.textChannel.send(`${user} ⏹ wyłączył piosenkę!`).catch(console.error);
+          queue.textChannel.send(`${user} ⏹ wyrzucił bota i wyłączył piosenkę!`).catch(console.error);
+          queue.connection.disconnect();
           try {
             queue.connection.dispatcher.end();
           } catch (error) {
             console.error(error);
-            queue.connection.disconnect();
+           // queue.connection.disconnect();
           }
           collector.stop();
           break;

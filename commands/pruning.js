@@ -1,5 +1,6 @@
 const fs = require("fs");
 const config = require("../config.json");
+const { MessageEmbed } = require("discord.js")
 
 module.exports = {
   name: "pruning",
@@ -16,7 +17,7 @@ module.exports = {
 
       const czysc = new MessageEmbed()
       .setTitle("Oczyszczanie wiadomości jest")
-      .setDescription(`${config.PRUNING ? "**włączone**" : "**wyłączone**"}`)
+      .setDescription(`${config.PRUNING ? "**Włączone**" : "**Wyłączone**"}`)
       .setColor("0xfcba03")
 
       return message.channel
