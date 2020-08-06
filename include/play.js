@@ -78,7 +78,7 @@ module.exports = {
         queue.songs.shift();
         module.exports.play(queue.songs[0], message);
       });
-    dispatcher.setVolumeLogarithmic(queue.volume / 250);
+    dispatcher.setVolumeLogarithmic(queue.volume / 100);
 
     try {
       const song = queue.songs[0];
