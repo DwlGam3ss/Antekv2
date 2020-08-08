@@ -1,4 +1,4 @@
-const { canModifyQueue } = require("../util/EvobotUtil");
+const { canModifyQueue, botChannel } = require("../util/EvobotUtil");
 
 
 module.exports = {
@@ -7,9 +7,14 @@ module.exports = {
   async run(message) {
 
     const queue = message.client.queue.get(message.guild.id);
-    
-    if (!queue) return message.reply("Nic nie gra.").catch(console.error);
-    if (!canModifyQueue(message.member)) return;
+    const { channel } = message.member.voice;
+
+    if (!queue === botChannel)connection.disconnect();
+      if (!queue) return message.reply("Nic nie gra.").catch(console.error);
+      if (!canModifyQueue(message.member)) return;
+      
+      
+
 
 
     queue.songs = [];

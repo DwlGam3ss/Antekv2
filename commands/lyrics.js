@@ -19,7 +19,7 @@ module.exports = {
     }
 
     let lyricsEmbed = new MessageEmbed()
-      .setTitle("Teks piosenki")
+      .setTitle("Tekst piosenki")
       .setDescription(lyrics)
       .setColor("0xfcba03")
       .setTimestamp();
