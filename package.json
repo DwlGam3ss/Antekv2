@@ -12,7 +12,7 @@
     "node": ">=12.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "discord.js": "^12.0.1",
     "ffmpeg-static": "^4.2.3",
     "js-helpers": "github:m7rlin/js-helpers",
