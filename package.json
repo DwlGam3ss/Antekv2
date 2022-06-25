@@ -19,7 +19,7 @@
     "lyrics-finder": "^21.0.5",
     "moment": "^2.27.0",
     "mongoose": "^5.9.27",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "opusscript": "0.0.7",
     "simple-youtube-api": "^5.2.1",
     "soundcloud-downloader": "^0.1.3",
