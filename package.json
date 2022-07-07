@@ -17,7 +17,7 @@
     "ffmpeg-static": "^4.2.3",
     "js-helpers": "github:m7rlin/js-helpers",
     "lyrics-finder": "^21.0.5",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.9.27",
     "node-fetch": "^2.6.0",
     "opusscript": "0.0.7",
